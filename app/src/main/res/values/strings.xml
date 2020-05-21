@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodDz</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789945520954",
+    "firebase_url": "https://fooddz-af81f.firebaseio.com",
+    "project_id": "fooddz-af81f",
+    "storage_bucket": "fooddz-af81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789945520954:android:299e032911816bad6c3603",
+        "android_client_info": {
+          "package_name": "com.berhabzakarya.fooddz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789945520954-984b1rmtqih4urgimm01220oomqmp3mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berhabzakarya.fooddz",
+            "certificate_hash": "e9e8f98e5016bc37c4e18531eab6a9a5ec24cc9f"
+          }
+        },
+        {
+          "client_id": "789945520954-a0figcba0f554eenue9njf24023md1is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnjoskDbtIvbXxq7gthd5nz1lVAuDoJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789945520954-a0figcba0f554eenue9njf24023md1is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
