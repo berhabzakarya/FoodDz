@@ -20,7 +20,7 @@ Before running the app, use your Google Account to register this Application on 
 ---
 
 ## My Contact
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](
 )](https://www.linkedin.com/in/berhab-zakarya-b18946196/)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow]()](https://github.com/berhabzakarya)
